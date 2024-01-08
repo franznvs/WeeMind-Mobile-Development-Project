@@ -21,8 +21,29 @@ Start your journey to holistic well-being today with WeeMind - because every ste
 
 ## Authors
 
-FS Ducta  
-[@franznvs](8204485@ntc.edu.ph)
+J. Abdulmanan  
+[@joana](8204485@ntc.edu.ph)
+
+K. Baquiran  
+[@kristine](8204485@ntc.edu.ph)
+
+F. Ducta  
+[@franz](8204485@ntc.edu.ph)
+
+J. Lacanilao  
+[@jay](8204485@ntc.edu.ph)
+
+L. Lauriaga  
+[@lancetristan](8204485@ntc.edu.ph)
+
+B. Ong  
+[@Blys](8204485@ntc.edu.ph)
+
+J-A. Rafanan  
+[@jay-ann](8204485@ntc.edu.ph)
+
+J. Wee  
+[@jencen](8204485@ntc.edu.ph)
 
 ## License
 
