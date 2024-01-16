@@ -1,4 +1,4 @@
-# WeeMind - Your Holistic Well-being Companion
+# WeeMind - Your All-in-One Well-being Companion
 
 Welcome to WeeMind, a mobile application designed to be your comprehensive companion on the journey to holistic well-being. In today's fast-paced world, where the digital landscape often contributes to sedentary lifestyles, heightened stress levels, and a lack of focus on overall health, WeeMind stands as a beacon for those seeking a balanced and mindful lifestyle.
 
