@@ -37,7 +37,7 @@ L. Lauriaga
 [@lancetristan](8200855@ntc.edu.ph)
 
 B. Ong  
-[@Blys](8211710@ntc.edu.ph)
+[@blys](8211710@ntc.edu.ph)
 
 J-A. Rafanan  
 [@jay-ann](8212474@ntc.edu.ph)
